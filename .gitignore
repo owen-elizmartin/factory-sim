@@ -1,1 +1,5 @@
 /build
+/test-reports
+notes
+/.cache/
+.swp
